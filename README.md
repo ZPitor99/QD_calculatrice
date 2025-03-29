@@ -27,11 +27,8 @@ QD-Calculatrice est une application Java permettant d'effectuer des calculs math
    ```bash
    cd QD_calculatrice
    ```
-La méthode `main` est par défaut, le fichier teste constitue le seul exercice des méthode de calcules
+La méthode `main` est par défaut, le fichier de test constitue le seul exercice des méthodes de calcule
    
-## Utilisation
-
-Lancez l'application et suivez les instructions à l'écran pour effectuer des calculs.
 
 ## Tests
 
