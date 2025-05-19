@@ -1,6 +1,6 @@
 # QD-Calculatrice
 
-QD-Calculatrice est une application Java permettant d'effectuer des calculs mathématiques avec des tests unitaires intégrés pour garantir la fiabilité des résultats.
+QD-Calculatrice est un ensemble de méthode Java permettant d'effectuer des calculs mathématiques avec des tests unitaires intégrés pour garantir la fiabilité des résultats.
 
 ## Fonctionnalités
 
@@ -16,6 +16,7 @@ QD-Calculatrice est une application Java permettant d'effectuer des calculs math
 ## Prérequis
 
 - **Java** : Assurez-vous que Java est installé sur votre système pour exécuter l'application.
+- **JUnit** : Les tests ont été effectués avec ce Framework de test unitaire.
 
 ## Installation
 
@@ -33,10 +34,6 @@ La méthode `main` est par défaut, le fichier de test constitue le seul exercic
 ## Tests
 
 Les tests unitaires sont situés dans le répertoire `QD_Test_Unitaire/`. Pour les exécuter, utilisez un framework de test Java tel que JUnit.
-
-## Contribution
-
-Les contributions sont les bienvenues. Veuillez soumettre une pull request pour proposer des améliorations ou des corrections.
 
 ## Licence
 
